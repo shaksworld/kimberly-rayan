@@ -1,6 +1,6 @@
 # deskapp
 
-This is a dashboard desktop application for a project submition for Kiberly Ryan 
+This is a dashboard desktop application for a project submition for Kiberly Ryan this template can be use for both the payroll management system and the learning managemnet system
 
 
 ## Built With
